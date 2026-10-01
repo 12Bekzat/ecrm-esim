@@ -1,0 +1,10 @@
+.env
+backend/.env
+ecrm/.env.local
+ecrm/dist/
+ecrm/node_modules/
+backend/coverage.out
+*.log
+.DS_Store
+.idea/
+.vscode/
